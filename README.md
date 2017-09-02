@@ -18,7 +18,9 @@ Features
 <li> Anywhere, running on AVR, ARM, PIC, MIPS embedded systems such as toy, watch, robot and iPhone, Android, etc, mobile platforms, of course any normal desktops, and embedded in products, such as news paper or ebook reader, story teller, language learning tool, chat, help desk and game agent, translation assistant and so on. </li>
 <li> Embeddable, can be loaded into memory and embedded in other programs. </li>
 </ol>
-<span class="title">Why Another TTS Engine?</span><br><br>
+
+Why Another TTS Engine?
+========
 The features of Yuet is the reason to develop another Chinese TTS engine.<br>
 <ol>
 <li> Although there's so many TTS engine that can process Chinese text, but none of them can satisfy the requirements and generate speech based on <b>clear word border</b>, emphasis on the appropriate words, including the engines from Google, Apple (Nuance), Microsoft, and NeoSpeech, iFLYTEK, eSpeak, Ekho, PiTL etc. The engine of Yuet is based on Chinese word segmentation and natural language understanding that differs compared to them. </li>
